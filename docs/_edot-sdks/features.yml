@@ -29,16 +29,16 @@ features:
     min_stack_version:
     .NET:
       status: ga
-      min_version: 
+      min_version: 1.0
     Java:
       status: ga
-      min_version: 
+      min_version: 1.0
     Node.js:
       status: ga
-      min_version: 
+      min_version: 1.0
     PHP:
       status: ga
-      min_version: 
+      min_version: 1.0
     Python:
       status: ga
       min_version: 1.0
@@ -53,17 +53,17 @@ features:
     min_stack_version:
     is_sub_feature: true
     .NET:
-      status: 
-      min_version: 
+      status: ga
+      min_version: 1.0
     Java:
-      status: 
-      min_version: 
+      status: ga
+      min_version: 1.0
     Node.js:
       status: ga
       min_version: 1.0
     PHP:
-      status: 
-      min_version: 
+      status: ga
+      min_version: 1.0
     Python:
       status: ga
       min_version: 1.0
@@ -78,17 +78,17 @@ features:
     min_stack_version:
     is_sub_feature: true
     .NET:
-      status: 
-      min_version: 
+      status: ga
+      min_version: 1.0
     Java:
-      status: 
-      min_version: 
+      status: ga
+      min_version: 1.0
     Node.js:
       status: ga
       min_version: 1.0
     PHP:
-      status: 
-      min_version: 
+      status: ga
+      min_version: 1.0
     Python:
       status: ga
       min_version: 1.0
@@ -103,17 +103,17 @@ features:
     min_stack_version:
     is_sub_feature: true
     .NET:
-      status:
-      min_version:
+      status: ga
+      min_version: 1.0
     Java:
-      status:
-      min_version:
+      status: ga
+      min_version: 1.0
     Node.js:
       status: ga
       min_version: 1.0
     PHP:
-      status:
-      min_version:
+      status: ga
+      min_version: 1.0
     Python:
       status: ga
       min_version: 1.0
@@ -132,13 +132,13 @@ features:
       min_version: 
     Java:
       status: ga
-      min_version: 
+      min_version: 1.0
     Node.js:
       status: not-available
       min_version: 
     PHP:
-      status: not-available
-      min_version: 
+      status: tech-preview
+      min_version: 1.0
     Python:
       status: not-available
       min_version: 
@@ -149,23 +149,23 @@ features:
       status: not-available
       min_version: 
   - name: Logs Collection
-    link: https://opentelemetry.io/docs/specs/otel/logs/#log-correlation
+    link: https://opentelemetry.io/docs/specs/otel/logs/#opentelemetry-solution
     min_stack_version:
     .NET:
       status: ga
-      min_version: 
+      min_version: 1.0
     Java:
       status: ga
-      min_version: 
+      min_version: 1.0
     Node.js:
       status: tech-preview
-      min_version:
+      min_version: 1.0
     PHP:
       status: ga
-      min_version: 
+      min_version: 1.0
     Python:
       status: tech-preview
-      min_version: 
+      min_version: 1.0
     Android:
       status: ga
       min_version: 1.0
@@ -173,24 +173,24 @@ features:
       status: ga
       min_version: v1.0
   - name: Logs Correlation
-    link: https://opentelemetry.io/docs/specs/otel/logs/#opentelemetry-solution
+    link: https://opentelemetry.io/docs/specs/otel/logs/#log-correlation
     is_sub_feature: true
     min_stack_version:
     .NET:
       status: ga
-      min_version: 
+      min_version: 1.0
     Java:
       status: ga
-      min_version: 
+      min_version: 1.0
     Node.js:
       status: tech-preview
-      min_version:
+      min_version: 1.0
     PHP:
       status: ga
-      min_version: 
+      min_version: 1.0
     Python:
       status: tech-preview
-      min_version: 
+      min_version: 1.0
     Android:
       status: ga
       min_version: 1.0
@@ -202,16 +202,16 @@ features:
     min_stack_version:
     .NET:
       status: ga
-      min_version: 
+      min_version: 1.0
     Java:
       status: ga
-      min_version: 
+      min_version: 1.0
     Node.js:
       status: ga
-      min_version: 
+      min_version: 1.0
     PHP:
       status: ga
-      min_version: 
+      min_version: 1.0
     Python:
       status: ga
       min_version: 1.0
@@ -227,16 +227,16 @@ features:
     min_stack_version:
     .NET:
       status: ga
-      min_version: 
+      min_version: 1.0
     Java:
       status: ga
-      min_version: 
+      min_version: 1.0
     Node.js:
       status: ga
-      min_version: 
+      min_version: 1.0
     PHP:
       status: ga
-      min_version: 
+      min_version: 1.0
     Python:
       status: ga
       min_version: 1.0
@@ -261,7 +261,7 @@ features:
       min_version: 
     PHP:
       status: not-available
-      min_version: 
+      min_version:
     Python:
       status: not-available
       min_version: 
@@ -276,19 +276,19 @@ features:
     is_sub_feature: true
     min_stack_version:
     .NET:
-      status: 
-      min_version: 
+      status: ga
+      min_version: 1.0
     Java:
-      status: 
-      min_version: 
+      status: ga
+      min_version: 1.0
     Node.js:
       status: tech-preview
-      min_version:
+      min_version: 1.0
     PHP:
-      status: 
-      min_version: 
+      status: not-available
+      min_version:
     Python:
-      status: 
+      status: not-available
       min_version: 
     Android:
       status: not-available
@@ -301,16 +301,16 @@ features:
     min_stack_version:
     .NET:
       status: ga
-      min_version: 
+      min_version: 1.0
     Java:
       status: ga
-      min_version: 
+      min_version: 1.0
     Node.js:
       status: ga
-      min_version: 
+      min_version: 1.0
     PHP:
       status: ga
-      min_version: 
+      min_version: 1.0
     Python:
       status: ga
       min_version: 1.0

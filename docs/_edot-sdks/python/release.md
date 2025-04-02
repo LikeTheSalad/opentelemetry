@@ -1,10 +1,7 @@
 ---
 title: Release Notes
 layout: default
-nav_order: 7
+nav_order: 9
 parent: EDOT Python
+ext_link: https://github.com/elastic/elastic-otel-python/releases
 ---
-
-# Release Notes for the EDOT Python SDK
-
-TODO
